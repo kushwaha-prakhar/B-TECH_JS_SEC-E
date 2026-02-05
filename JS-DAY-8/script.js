@@ -11,8 +11,7 @@ console.log(highlight.length)
 
 for(let i=0 ; i<highlight.length;i++){
     highlight[i].style.color= "blue";
-    highlight[i].style.fontSize= "30px";
-    
+    highlight[i].style.fontSize= "30px";   
 }
 
 // task 3
