@@ -1,7 +1,5 @@
 # interview prep
-<!-- ## gfdjdvdsjvdsk
-### dkhgfiduvn
-# hdfdsujfnsedfe -->
+
 
 ### 1.difference btw var,let, and const
 ### 2.explain different types of js operators
@@ -24,3 +22,6 @@
 ### 8.difference between spread operator and rest parameter    
 ### 9. what is nullish coalescing operator
 ### 10.difference between setInterval and setTimeout.
+### 11.difference between forEach and map method.
+### 12.difference between textContent, innerHtml and innertext.
+### 13.difference between setTimeout and setInterval.
